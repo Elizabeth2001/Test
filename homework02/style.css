@@ -1,0 +1,35 @@
+h1{
+    color: darkblue;
+    font-family: Arial;
+}
+
+p{
+    font-size:15px; 
+    font-family: Arial;
+}
+
+#p1{
+    font-size:20px;
+    color:blue;
+    font-family: Arial;
+}
+
+#map{
+    margin: 15px 0px 15px 0px;
+    display: block;
+}
+
+#center{
+    top:10px;
+    left:100px;
+     
+}
+.green{
+    color:green;
+    font-family: Arial;
+}
+
+.blue{
+    color: blue;
+    font-family: Arial;
+}
