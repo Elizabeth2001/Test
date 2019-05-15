@@ -1,0 +1,36 @@
+{
+    "menuName" : "Категории мусора",
+    
+    "garbageCategories" : [
+        {
+            "name" : "Бутылки",
+            "imageURL" : "#",
+            "pageLink" : "#"
+        },
+        {
+            "name" : "Пакеты",
+            "imageURL" : "#",
+            "pageLink" : "#"
+        },
+        {
+            "name" : "Контейнеры",
+            "imageURL" : "#",
+            "pageLink" : "#"
+        },
+        {
+            "name" : "Посуда",
+            "imageURL" : "#",
+            "pageLink" : "#"
+        },
+        {
+            "name" : "Пенопласт",
+            "imageURL" : "#",
+            "pageLink" : "#"
+        },
+        {
+            "name" : "Канцтовары",
+            "imageURL" : "#",
+            "pageLink" : "#"
+        }
+    ]
+  }
