@@ -9,37 +9,37 @@
         },
         {
             "name" : "Дерево",
-            "imageURL" : "#",
+            "imageURL" : "https://raw.githubusercontent.com/Elizabeth2001/Test/master/pics/wood.png",
             "pageLink" : "#"
         },
         {
             "name" : "Стекло",
-            "imageURL" : "#",
+            "imageURL" : "https://raw.githubusercontent.com/Elizabeth2001/Test/master/pics/glass.png",
             "pageLink" : "#"
         },
         {
             "name" : "Пластик",
-            "imageURL" : "#",
+            "imageURL" : "https://raw.githubusercontent.com/Elizabeth2001/Test/master/pics/plastic.png",
             "pageLink" : "#"
         },
         {
             "name" : "Металл",
-            "imageURL" : "#",
+            "imageURL" : "https://raw.githubusercontent.com/Elizabeth2001/Test/master/pics/metal.png",
             "pageLink" : "#"
         },
         {
             "name" : "Резина",
-            "imageURL" : "#",
+            "imageURL" : "https://raw.githubusercontent.com/Elizabeth2001/Test/master/pics/rubber.png",
             "pageLink" : "#"
         },
         {
             "name" : "Электроника",
-            "imageURL" : "#",
+            "imageURL" : "https://raw.githubusercontent.com/Elizabeth2001/Test/master/pics/electronics.png",
             "pageLink" : "#"
         },
         {
             "name" : "Другое",
-            "imageURL" : "#",
+            "imageURL" : "https://raw.githubusercontent.com/Elizabeth2001/Test/master/pics/other.png",
             "pageLink" : "#"
         }
     ]
