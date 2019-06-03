@@ -4,7 +4,7 @@
     "garbageCategories" : [
         {
             "name" : "Бумага",
-            "imageURL" : "#",
+            "imageURL" : "https://raw.githubusercontent.com/Elizabeth2001/Test/master/pics/paper.png",
             "pageLink" : "#"
         },
         {
