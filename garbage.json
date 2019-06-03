@@ -3,32 +3,42 @@
     
     "garbageCategories" : [
         {
-            "name" : "Бутылки",
+            "name" : "Бумага",
             "imageURL" : "#",
             "pageLink" : "#"
         },
         {
-            "name" : "Пакеты",
+            "name" : "Дерево",
             "imageURL" : "#",
             "pageLink" : "#"
         },
         {
-            "name" : "Контейнеры",
+            "name" : "Стекло",
             "imageURL" : "#",
             "pageLink" : "#"
         },
         {
-            "name" : "Посуда",
+            "name" : "Пластик",
             "imageURL" : "#",
             "pageLink" : "#"
         },
         {
-            "name" : "Пенопласт",
+            "name" : "Металл",
             "imageURL" : "#",
             "pageLink" : "#"
         },
         {
-            "name" : "Канцтовары",
+            "name" : "Резина",
+            "imageURL" : "#",
+            "pageLink" : "#"
+        },
+        {
+            "name" : "Электроника",
+            "imageURL" : "#",
+            "pageLink" : "#"
+        },
+        {
+            "name" : "Другое",
             "imageURL" : "#",
             "pageLink" : "#"
         }
